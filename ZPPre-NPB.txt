@@ -1,38 +1,56 @@
 ZAKON O PARLAMENTARNI PREISKAVI
 NEURADNO PREČIŠČENO BESEDILO
-(ZPPre-NPB2)
+(ZPPre-NPB3)
+
 
 1. člen
-Parlamentarna preiskava v zadevah javnega pomena se opravi, da se ugotovi 
+
+Parlamentarna preiskava v zadevah javnega pomena se opravi, da se ugotovi
 in oceni dejansko stanje, ki je lahko podlaga za odločanje Državnega zbora o politični
 odgovornosti nosilcev javnih funkcij, za spremembo zakonodaje na določenem področju
-in za druge odločitve Državnega zbora iz njegove ustavne pristojnosti.
+ali za druge odločitve Državnega zbora iz njegove ustavne pristojnosti.
 
+
+1.a člen
+
+(1) V 30 dneh po objavi akta, s katerim se odredi parlamentarna preiskava (v
+nadaljnjem besedilu: akt) v Uradnem listu Republike Slovenije, lahko zahteva odločitev
+Ustavnega sodišča o skladnosti akta z ustavo:
+− Sodni svet, če meni, da je akt v neskladju z neodvisnostjo sodnikov ali neodvisnostjo 
+  sodstva,
+− generalni državni tožilec, če meni, da je akt v neskladju z neodvisnostjo državnih
+  tožilcev.
+
+(2) Ustavno sodišče zahtevo iz prejšnjega odstavka obravnava absolutno
+prednostno in o njej odloči najkasneje v 60 dneh v skladu z zakonom, ki ureja ustavno
+sodišče.
 
 2. člen
 
 Če v neki zadevi že teče kazenski postopek, to ni ovira, da ne bi bila o njej v
 okviru pristojnosti Državnega zbora izvedena tudi parlamentarna preiskava.
 
+(2) Državni zbor ne more odrediti parlamentarne preiskave o isti stvari, o
+kateri je že sprejel končno poročilo.
 
 3. člen
 
 (1) V preiskovalni komisiji ne sme sodelovati poslanec:
-- če je preiskovanec ali priča v zadevi, ki se preiskuje,
-- če je ali je bil s preiskovancem ali njegovim pravnim pooblaščencem v zakonski
-  zvezi oziroma živi ali je živel z njim v izvenzakonski skupnosti ali če je s
-  preiskovancem ali njegovim pravnim pooblaščencem v sorodstvu v ravni vrsti do
-  kateregakoli kolena ali v stranski vrsti do vštetega četrtega kolena ali v svaštvu do
-  vštetega drugega kolena,
-- če je bil sam ali je oziroma je bila katera od oseb iz prejšnje alinee odgovorna
-  oseba v organu ali pravni osebi, katere dejavnost se preiskuje, v času, na katerega
-  se nanaša preiskava,
-- če je ali je bil kakorkoli udeležen v kazenskem ali drugem sodnem ali upravnem
-  postopku ali postopku o prekršku, ki je v neposredni zvezi s predmetom preiskave.
+− če je preiskovanec ali priča v zadevi, ki se preiskuje,
+− če je ali je bil s preiskovancem ali njegovim pravnim pooblaščencem v zakonski
+zvezi oziroma živi ali je živel z njim v zunajzakonski skupnosti ali če je s
+preiskovancem ali njegovim pravnim pooblaščencem v sorodstvu v ravni vrsti do
+kateregakoli kolena ali v stranski vrsti do vštetega četrtega kolena ali v svaštvu do
+vštetega drugega kolena,
+− če je bil sam ali je oziroma je bila katera od oseb iz prejšnje alinee odgovorna
+oseba v organu ali pravni osebi, katere dejavnost se preiskuje, v času, na katerega
+se nanaša preiskava, ali
+− če je ali je bil kakorkoli udeležen v kazenskem, drugem sodnem, upravnem
+postopku ali postopku o prekršku, ki je v neposredni zvezi s predmetom preiskave.
 
-(2) Če so okoliščine iz prejšnjega odstavka znane ob imenovanju preiskovalne 
-komisije, tak poslanec ne sme biti imenovan v preiskovalno komisijo.
-Kolikor take okoliščine nastanejo pozneje ali se zanje izve šele pozneje, mora tak
+(2) Če so okoliščine iz prejšnjega odstavka znane ob imenovanju
+preiskovalne komisije, tak poslanec ne sme biti imenovan v preiskovalno komisijo. V
+kolikor take okoliščine nastanejo pozneje, ali se zanje izve šele pozneje, mora tak
 poslanec takoj prenehati z delom v preiskovalni komisiji, predsednik preiskovalne
 komisije pa mora o tem takoj obvestiti Državni zbor s predlogom, da takega poslanca
 razreši in imenuje v preiskovalno komisijo drugega poslanca. Če se okoliščine iz
@@ -43,10 +61,19 @@ Državni zbor namestnik predsednika preiskovalne komisije.
 izločitve članov preiskovalne komisije zaradi dvoma o njihovi nepristranosti.
 
 
+3.a člen
+
+Predlog, s katerim se člana ali namestnika člana preiskovalne komisije
+določi za preiskovanca ali za pričo, mora biti obrazložen. Iz obrazložitve morajo izhajati
+razlogi in okoliščine, da se člana ali namestnika člana preiskovalne komisije predlaga za
+preiskovanca oziroma razlogi, ki narekujejo, da bi kot priča lahko izpovedal bistvene
+okoliščine glede predmeta odrejene parlamentarne preiskave.
+
+
 4. člen
 
-V postopku parlamentarne preiskave je zagotovljeno varstvo tajnosti pisem in
-drugih občil ter nedotakljivost človekove zasebnosti.
+V postopku parlamentarne preiskave se zagotavljata varstvo tajnosti pisem
+in drugih občil ter nedotakljivost človekove zasebnosti.
 
 
 5. člen
@@ -55,7 +82,7 @@ drugih občil ter nedotakljivost človekove zasebnosti.
 Preiskovancem in njihovim pravnim pooblaščencem, pričam in izvedencem se stroški
 povrnejo po pravilih, ki veljajo za kazenski postopek, če pa je prizadeta pravna oseba,
 potem pa po pravilih, ki veljajo za postopek o prekrških. Pri tem se ne uporabljajo določbe
-zakona o kazenskem postopku o naložitvi plačila stroškov obdolžencu, če je spoznan za 
+zakona o kazenskem postopku o naložitvi plačila stroškov obdolžencu, če je spoznan za
 krivega oziroma določbe zakona o prekrških o plačilu stroškov za pravno osebo, ki ji je
 bila izrečena sankcija za prekršek.
 
@@ -70,6 +97,7 @@ odmero stroškov pri pristojnem sodišču.
 (1) V dokaznem sklepu, ki ga sprejme pred začetkom dokazovanja,
 preiskovalna komisija določi način izvedbe parlamentarne preiskave in dokazila. V
 dokaznem sklepu se praviloma določijo tudi preiskovanci.
+
 (2) Preiskovalna komisija lahko dokazni sklep kadarkoli spremeni ali dopolni.
 
 (3) Pri dokaznem sklepu je preiskovalna komisija vezana na sklep Državnega
@@ -83,7 +111,7 @@ celoti ali deloma.
 
 (2) Če preiskovanci niso določeni že z dokaznim sklepom, lahko preiskovalna
 komisija z dopolnitvijo dokaznega sklepa kadarkoli ugotovi, kdo je preiskovanec. Osebe,
-ki bi bile lahko preiskovanci, to lahko tudi same prijavijo predsedniku preiskovalne 
+ki bi bile lahko preiskovanci, to lahko tudi same prijavijo predsedniku preiskovalne
 komisije, preiskovalna komisija pa z dopolnitvijo dokaznega sklepa odloči, ali jim bo
 priznala tak položaj. Zoper odločitev preiskovalne komisije ni pritožbe.
 
@@ -101,7 +129,6 @@ pri zaslišanju v kazenskem postopku obdolženec.
 kasneje pa je postal preiskovanec, se poročilo preiskovalne komisije ne more opirati na
 njegovo izpovedbo kot priče.
 
-
 (6) Preiskovanec sme sodelovati pri izvajanju dokazov, razen če je
 preiskovalna komisija sklenila, da se iz prostora, kjer se izvajajo dokazi, preiskovanec
 začasno odstrani zato, ker sopreiskovanec ali priča v njegovi navzočnosti noče
@@ -114,6 +141,7 @@ pripomniti k njuni izpovedbi. Po potrebi se opravi soočenje.
 (7) Preiskovancem lahko pri uveljavljanju njihovih pravic pomagajo pravni
 pooblaščenci. Preiskovanci lahko predlagajo dokaze. Pričam in izvedencem smejo
 postavljati vprašanja.
+
 (8) Prizadete pravne osebe imajo v postopku parlamentarne preiskave
 smiselno enak položaj kot pravne osebe po zakonu o prekrških.
 
@@ -193,8 +221,9 @@ O ugovorih odloča preiskovalna komisija.
 
 13. člen
 
-(1) Sodišča in drugi državni organi so dolžni preiskovalni komisiji dati potrebno
-pravno pomoč. Pri tem morajo postopati kar se da hitro.
+(1) Sodišča in drugi državni organi so dolžni preiskovalni komisiji nuditi
+potrebno pravno pomoč. Zahteve preiskovalne komisije za pravno pomoč morajo
+sodišča in drugi državni organi obravnavati nujno.
 
 (2) Preiskovalna komisija lahko sklene, da se priče ali izvedenci zaslišijo pred
 sodiščem. Ustrezno zahtevo je treba vložiti pri sodišču, na čigar območju naj bi potekala
@@ -209,7 +238,7 @@ preiskave lahko izvajajo le prek sodišča. Ustrezno zahtevo z
 obrazložitvijo, ki ji je treba priložiti sklep o predmetu preiskave, je
 treba vložiti pri sodišču, na čigar območju naj bi se izvedel omenjeni
 ukrep. Zaprošeno sodišče ni upravičeno ocenjevati umestnosti ukrepa. Če pa
-meni, da ni v skladu z zakonom, zahteva odločitev višjega sodišča.  Zoper
+meni, da ni v skladu z zakonom, zahteva odločitev višjega sodišča. Zoper
 odločitev višjega sodišča ni pritožbe. Sodišče obravnava te zahteve
 prednostno.
 
@@ -243,9 +272,20 @@ poslovno tajnostjo, sme takšno tajnost razkriti le, če ima pooblastilo prizade
 ne velja, č zakon nalaga razkritje tajnosti.
 
 
+15.a člen
+
+(1) Preiskovanec lahko zaradi kršitev človekovih pravic ali temeljnih
+svoboščin, storjenih med izvajanjem parlamentarne preiskave, vloži tožbo v upravnem
+sporu.
+
+(2) Tožba se lahko vloži v roku osmih dni od vročitve končnega poročila
+parlamentarne preiskovalne komisije
+
+
 16. člen
 
 (prenehal veljati)
+
 17. člen
 
 (1) (prenehal veljati)
@@ -280,12 +320,26 @@ prizadetih pravnih oseb pa zakon o prekrških.
 
 Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike
 Slovenije.
-
-Kazenski zakonik Republike Slovenije (Uradni list RS, št. 63/94) vsebuje
-naslednjo končno določbo:
+Kazenski zakonik Republike Slovenije (Uradni list RS, št. 63/94) vsebuje naslednjo
+končno določbo:
 
 
 396. člen
 
 Ta zakonik začne veljati 1. januarja 1995.
+Zakon o spremembah in dopolnitvah Zakona o parlamentarni preiskavi – ZPPre-A
+(Uradni list RS, št. 108/24) vsebuje naslednjo prehodno in končno določbo:
+Prehodna in končna določba
+
+
+5. člen
+
+Prvi stavek novega tretjega odstavka 5. člena zakona se ne uporablja za
+parlamentarne preiskave, ki so bile odrejene pred uveljavitvijo tega zakona.
+
+
+6. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike
+Slovenije.
 
