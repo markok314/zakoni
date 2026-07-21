@@ -1,0 +1,2 @@
+# zakoni
+Primerjava verzij zakonov
